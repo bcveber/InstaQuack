@@ -1,0 +1,2 @@
+# InstaQuack
+Mock Instagram service
