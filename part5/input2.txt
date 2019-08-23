@@ -1,0 +1,30 @@
+create topic 1 "Test 1" 7
+create topic 2 "Test 2" 8
+create topic 3 "Test 3" 9
+create topic 1 "Test 1" 7
+create topic 2 "Test 2" 8
+create topic 3 "Test 3" 9
+create topic 1 "Test 1" 7
+create topic 2 "Test 2" 8
+create topic 3 "Test 3" 9
+create topic 1 "Test 1" 7
+create topic 2 "Test 2" 8
+create topic 3 "Test 3" 9
+
+create topic 1 "Test 1" 7
+create topic 2 "Test 2" 8
+create topic 3 "Test 3" 9
+create topic 1 "Test 1" 7
+create topic 2 "Test 2" 8
+create topic 3 "Test 3" 9
+
+create topic 1 "Test 1" 7
+create topic 2 "Test 2" 8
+create topic 3 "Test 3" 9
+create topic 1 "Test 1" 7
+create topic 2 "Test 2" 8
+create topic 3 "Test 3" 9
+
+
+
+start

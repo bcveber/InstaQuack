@@ -1,0 +1,19 @@
+create topic 1 "basketball" 25
+create topic 2 "labrador retrievers" 3
+
+query topics
+
+create publisher publisher_example.txt
+create publisher dogPublisher.txt
+
+query publishers
+
+create subscriber subscriber_example.txt
+create subscriber dogSubscriber.txt
+
+query subscribers
+
+delta 100
+
+start
+
